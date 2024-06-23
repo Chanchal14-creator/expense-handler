@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/expense-handler/static/css/main.6aa8c376.css",
+    "main.js": "/expense-handler/static/js/main.35d8067c.js",
+    "static/js/787.39bb0775.chunk.js": "/expense-handler/static/js/787.39bb0775.chunk.js",
+    "index.html": "/expense-handler/index.html",
+    "main.6aa8c376.css.map": "/expense-handler/static/css/main.6aa8c376.css.map",
+    "main.35d8067c.js.map": "/expense-handler/static/js/main.35d8067c.js.map",
+    "787.39bb0775.chunk.js.map": "/expense-handler/static/js/787.39bb0775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6aa8c376.css",
+    "static/js/main.35d8067c.js"
+  ]
+}
